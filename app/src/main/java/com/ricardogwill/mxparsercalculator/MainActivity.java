@@ -152,6 +152,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 ioTextView.setText("");
+                resultTextView.setText("");
             }
         });
 
